@@ -54,7 +54,6 @@ const Name = styled('p', {
   margin: '0',
   padding: '0 0 0 12px',
   flex: '1 1 100%',
-  // flex: 0 1 auto; - default flex value
   color: '#374151',
   textTransform: 'capitalize',
   fontSize: '16px',
